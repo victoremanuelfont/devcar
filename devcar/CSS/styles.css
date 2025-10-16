@@ -91,5 +91,20 @@ nav ul button:hover{
     color: white;
 }
 
+.content .header-block{
+    max-width: 1000px;
+    min-width: 300px;
+    height: 450px;
+    background: var(--blue);
+    border-radius: 8px;
+    box-shadow: 1px 0px 10px 0px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 1px 0px 10px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 1px 0px 10px 0px rgba(0,0,0,0.5);
+
+    position: relative;
+    z-index: 10;
+    padding: 10px;
+}
+
 
 
